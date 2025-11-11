@@ -1,4 +1,3 @@
-# 💫 About Me:
 I am a molecular biologist and musician, trained as a chronobiologist and a geneticist. <br>I am currently working on the crosstalk of different biological timing mechanisms (e.g. circadian and circalunar clocks). <br>We know that multiple biological clocks can co-exist in one living being, and they are shown to interact in multiple instances.<br>How do they do that? <br>This is the question I am trying to answer
 
 
