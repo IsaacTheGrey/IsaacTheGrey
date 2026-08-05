@@ -1,4 +1,4 @@
-I am a molecular biologist and musician, trained as a chronobiologist and a geneticist, currently working on the crosstalk of different biological timing mechanisms
+Molecular biologist and musician, trained as a chronobiologist and a geneticist, currently working on the crosstalk of different biological timing mechanisms
 
 
 # Socials:
