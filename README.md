@@ -1,5 +1,5 @@
 Molecular biologist and musician.
-Trained as achronobiologist and geneticist, currently working on the interactions between circadian (~24h) and circalunar (~29,5 days) biological clocks using the marine bristleworm _Platynereis dumerilii_ as a model.
+Trained as chronobiologist and geneticist, currently working on the interactions between circadian (~24h) and circalunar (~29,5 days) biological clocks using the marine bristleworm _Platynereis dumerilii_ as a model.
 
 
 # Socials:
